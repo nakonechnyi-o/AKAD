@@ -1,5 +1,5 @@
 .container-fluid {
-    background-image: url(../img/background.png);
+    background-image: url(img/background.png);
     min-height: 500px;
     background-size: cover;   
 }
@@ -8,7 +8,7 @@
     padding: 43px 80px 0px 80px;
 }
 
-.position-static a {s
+.position-static a {
     color: #60606e;
 }
 
